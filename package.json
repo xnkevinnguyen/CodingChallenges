@@ -1,0 +1,23 @@
+{
+  "name": "codingchallenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiWukai/CodingChallenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiWukai/CodingChallenges/issues"
+  },
+  "homepage": "https://github.com/GuiWukai/CodingChallenges#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
