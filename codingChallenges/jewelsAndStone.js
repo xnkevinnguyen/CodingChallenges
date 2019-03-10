@@ -1,4 +1,4 @@
-const { consoleAverageTime } = require('./utils/timer')
+const { consoleAverageTime } = require('../utils/timer')
 
 /*
 0.050ms
